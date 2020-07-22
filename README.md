@@ -1,2 +1,2 @@
 # Joke-App
-simple app
+simple  notification app
